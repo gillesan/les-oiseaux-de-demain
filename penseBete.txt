@@ -1,0 +1,16 @@
+Info site
+---------
+Site Title : oiseauxresilience
+Username : gilles
+Password : anaisemile
+
+Info DB
+-------
+Database Name : wp_oiseauxresilience
+Username : root
+Password : 
+Database Host : localhost
+Table Prefix : or_
+
+
+
